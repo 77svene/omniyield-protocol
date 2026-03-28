@@ -1,0 +1,7 @@
+Just shipped OmniYield — Cross‑Chain NFT‑Collateralized Lending & Yield Aggregator for ETHGlobal HackMoney 2026 — Uniswap/LI.FI/Arc/Circle track!
+
+Captures idle NFT collections as programmable collateral to mint yield‑bearing synthetic assets across chains, creating a new liquidity layer for DeFi.
+
+https://github.com/77svene/omniyield-protocol
+
+#hackathon #AI #Web3 #DeFi @lablabai
