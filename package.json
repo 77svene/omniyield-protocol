@@ -1,0 +1,25 @@
+{
+  "name": "omniyield",
+  "version": "1.0.0",
+  "description": "OmniYield - CrossChain NFTCollateralized Lending & Yield Aggregator",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js --network sepolia"
+  },
+  "keywords": [
+    "nft",
+    "lending",
+    "yield",
+    "defi",
+    "hardhat"
+  ],
+  "author": "OmniYield Team",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "4.0.0",
+    "ethers": "6.7.0"
+  }
+}
